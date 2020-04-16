@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
     public TextView mTextView1;
     public TextView mTextView2;
     public TextView mTextView3;
+    public TextView mTextView4;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
